@@ -97,12 +97,6 @@
                                         Cette page soit qu'elle n'existe pas, ou il y a une erreur dans le système.<br />
                                         Contactez l'administrateur si c'est une erreur.
                                     </p>
-                                    <form action="#">
-                                        <div class="input-append">                      
-                                            <input class="m-wrap" size="16" type="text" placeholder="keyword..." />
-                                            <button class="btn blue">Search</button>
-                                        </div>
-                                    </form>
                                 </div>
                             </div>
                         </div>
