@@ -179,7 +179,7 @@
     											<thead>
     												<tr>
     													<th style="width:5%">Actions</th>
-                                                        <th style="width:20%">Client</th>
+                                                        <th style="width:35%">Client</th>
                                                         <th style="width:15%">Bien</th>
                                                         <th style="width:10%">Date Contrat</th>
                                                         <th style="width:10%">Prix</th>
