@@ -67,7 +67,7 @@
     	</div>
     	<!-- END HEADER -->
     	<!-- BEGIN CONTAINER -->
-    	<div class="page-container row-fluid">
+    	<div class="page-container row-fluid sidebar-closed">
     		<!-- BEGIN SIDEBAR -->
     		<?php include("include/sidebar.php"); ?>
     		<!-- END SIDEBAR -->
@@ -179,13 +179,13 @@
     											<thead>
     												<tr>
     													<th style="width:5%">Actions</th>
-                                                        <th style="width:15%">Client</th>
-                                                        <th style="width:15%" class="hidden-phone">Bien</th>
-                                                        <th style="width:15%">Date Contrat</th>
-                                                        <th style="width:10%" class="hidden-phone">Prix</th>
-                                                        <th style="width:10%" class="hidden-phone">Réglements</th>
-                                                        <th style="width:10%" class="hidden-phone">Reste</th>
-                                                        <th style="width:10%" class="hidden-phone">Status</th>
+                                                        <th style="width:20%">Client</th>
+                                                        <th style="width:15%">Bien</th>
+                                                        <th style="width:10%">Date Contrat</th>
+                                                        <th style="width:10%">Prix</th>
+                                                        <th style="width:10%">Réglements</th>
+                                                        <th style="width:10%">Reste</th>
+                                                        <th style="width:5%">Status</th>
     												</tr>
     											</thead>
     											<tbody>
